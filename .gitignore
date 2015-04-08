@@ -1,0 +1,9 @@
+paintshop
+PhotoShop
+object_files
+
+glui/build
+glui/lib
+
+jpeg-9a
+libpng-1.6.16
